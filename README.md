@@ -65,7 +65,7 @@ Matthew Turk, Alex Pentland; Eigenfaces for Recognition. J Cogn Neurosci 1991; 3
 
 ## Authors
 
-- [@LoanClt](https://www.github.com/https://github.com/LoanClt) & KINA Matheo
+- KINA Matheo and Loan CHALLEAT
 
 
 ## Running Tests
