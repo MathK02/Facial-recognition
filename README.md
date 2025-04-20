@@ -83,5 +83,5 @@ Here are the results using the eigenface smethod:
 
 ## Feedback
 
-If you have any feedback, please reach out to us at loan.challeat@institutoptique.fr
+If you have any feedback, please reach out to us at matheo.kina@institutoptique.fr
 
